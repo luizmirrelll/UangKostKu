@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UangKost</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">UangKost</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Reset</string>
+
+    <string name="aboutheader">UangKost &#169; 2018</string>
+    <string name="abouttext">UangKost adalah aplikasi yang berguna untuk mencatat pendapatan dan pengeluaran.</string>
+
+    <string name="messageWithLink"><a href="https://www.facebook.com/Alrel.Mirel/">FaceBook</a></string>
+    <string name="messageWithLink2"><a href="https://github.com/luizmirrelll">GITHUB</a></string>
+    <string name="messageWithLink3"><a href="https://www.instagram.com/luizmirrelll/?hl=id">Instagram</a></string>
+</resources>
